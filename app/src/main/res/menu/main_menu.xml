@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listMovie"
+        android:enabled="true"
+        android:icon="@drawable/ic_playlist_play_24dp"
+        android:title="Movie" />
+    <item
+        android:id="@+id/createMovie"
+        android:enabled="true"
+        android:icon="@drawable/ic_queue_play_next_24dp"
+        android:title="Create" />
+</menu>
